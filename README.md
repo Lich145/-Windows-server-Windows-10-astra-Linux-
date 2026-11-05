@@ -1,2 +1,2 @@
-# -Widows-server-Windows-10-astra-Linux-
+# -Windows-server-Windows-10-astra-Linux-
 Описание создания простой сети в virtual box. Настройка Windows server и двух клиентов при почти НУЛЕВХ знаниях. Путь с нуля до полностью настроенной и рабочей лаборатории. 
